@@ -1,6 +1,9 @@
 # GrowtopiaPacketReader
 A simple script that will print all sent and received packets in Growtopia. This script can be run using [Frida](https://frida.re/). Packets are displayed both in hexadecimal and ASCII. Green text represents incoming packets, cyan text represents outgoing packets. The script will only work on Windows.
 
+### Warning
+This might actually be bannable on the newest version of Growtopia. Use it at your own risk!
+
 ![Preview image](preview.png)
 
 # How to install
